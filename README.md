@@ -18,14 +18,15 @@ I'm an **Associate Software Engineer** with **2+ years** of hands-on experience 
 
 My sweet spot is **Laravel & PHP backend development**, where I transform complex requirements into clean, maintainable code. I love solving problems that require thoughtful architecture and attention to detail.
 
-### What I Do Best:
-- 🚀 **Laravel Backend Development** - From REST APIs to complex business logic
-- 📊 **System Architecture** - Designing scalable, maintainable solutions
-- 🗄️ **Database Optimization** - MySQL performance tuning and schema design
-- 🔌 **API Integration** - Seamless third-party service integrations
-- 📦 **Inventory & Booking Systems** - Business-critical applications
-- ⚙️ **Admin Panels & Dashboards** - User-friendly management interfaces
-- 📱 **WordPress Integration** - Custom solutions for WP-based projects
+## What I Do Best:
+
+🚀 **Laravel Backend Development** – Building secure REST APIs and business logic-driven applications  
+📊 **System Design & Architecture** – Designing scalable and maintainable backend solutions  
+🗄️ **Database Design & Optimization** – MySQL schema design, query optimization, and performance tuning  
+🔌 **API Integration** – Integrating third-party services and external APIs smoothly  
+📦 **Business Systems Development** – Inventory, booking, and workflow management systems  
+⚙️ **Admin Panels & Dashboards** – Clean and functional backend management systems  
+📱 **WordPress Backend Integration** – API-based integration and custom backend functionality  
 
 ---
 
