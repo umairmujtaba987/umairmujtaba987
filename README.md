@@ -108,8 +108,6 @@ Check out my work on:
   
 ![GitHub Stats](https://streak-stats.demolab.com/?user=umairmujtaba987&theme=radical) 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umairmujtaba987&theme=radical)
-
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=umairmujtaba987&layout=compact&theme=radical)
 
 </div>
