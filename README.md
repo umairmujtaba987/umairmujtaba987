@@ -6,7 +6,7 @@
 
 *Building scalable backend solutions for startups and growing businesses*
 
-[🌐 Portfolio](https://umairmujtaba987.github.io/portfolio) • [📫 Get in Touch](0923434315464)
+[🌐 Portfolio](https://umairmujtaba987.github.io/portfolio) • [📫 Get in Touch](https://wa.me/923434315464)
 
 </div>
 
@@ -97,16 +97,16 @@ My sweet spot is **Laravel & PHP backend development**, where I transform comple
 Check out my work on:
 
 - 🔗 **GitHub**: [@umairmujtaba987](https://github.com/umairmujtaba987)
-- 💼 **LinkedIn**: [@Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
-- 🌍 **Portfolio Website**:[@portfolio](https://umairmujtaba987.github.io/portfolio).
+- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
+- 🌍 **Portfolio Website**: [Portfolio](https://umairmujtaba987.github.io/portfolio).
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairmujtaba987&show_icons=true&theme=radical&count_private=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairmujtaba987&show_icons=true&theme=radical&count_private=true) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairmujtaba987&layout=compact&theme=radical)
 
@@ -118,10 +118,10 @@ Check out my work on:
 
 I'm always interested in discussing new projects and technical challenges.
 
-- 📧 **Email**:umairmujtaba123@gmail.com 
-- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
+- 📧 **Email**: umairmujtaba123@gmail.com 
+- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/)
 - 🐙 **GitHub**: [@umairmujtaba987](https://github.com/umairmujtaba987)
-- 📱 **WhatsApp**: +92 3424215464
+- 📱 **WhatsApp**: [Get in Touch](https://wa.me/923424215464)
 
 ---
 
