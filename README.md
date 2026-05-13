@@ -6,7 +6,7 @@
 
 *Building scalable backend solutions for startups and growing businesses*
 
-[🌐 Portfolio](#-portfolio) • [💼 Services](#-services) • [🛠️ Tech Stack](#-tech-stack) • [📫 Get in Touch](#-contact)
+[🌐 Portfolio](https://umairmujtaba987.github.io/portfolio) • [📫 Get in Touch](0923434315464)
 
 </div>
 
@@ -97,8 +97,8 @@ My sweet spot is **Laravel & PHP backend development**, where I transform comple
 Check out my work on:
 
 - 🔗 **GitHub**: [@umairmujtaba987](https://github.com/umairmujtaba987)
-- 💼 **LinkedIn**:(https://www.linkedin.com/in/umair-mujtaba-425981181/).
-- 🌍 **Personal Website**: https://umairmujtaba987.github.io/portfolio
+- 💼 **LinkedIn**: [@Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
+- 🌍 **Portfolio Website**:[@portfolio](https://umairmujtaba987.github.io/portfolio).
 
 ---
 
@@ -119,7 +119,7 @@ Check out my work on:
 I'm always interested in discussing new projects and technical challenges.
 
 - 📧 **Email**:umairmujtaba123@gmail.com 
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/umair-mujtaba-425981181/).
+- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
 - 🐙 **GitHub**: [@umairmujtaba987](https://github.com/umairmujtaba987)
 - 📱 **WhatsApp**: +92 3424215464
 
