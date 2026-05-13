@@ -58,38 +58,39 @@ My sweet spot is **Laravel & PHP backend development**, where I transform comple
 
 | Competency | Level | Experience |
 |-----------|-------|------------|
-| **Laravel Framework** | Expert | 2+ years |
-| **PHP Development** | Expert | 2+ years |
-| **REST API Design** | Expert | 2+ years |
-| **MySQL Optimization** | Advanced | 2+ years |
-| **CodeIgniter (CI3/CI4)** | Advanced | 1.5+ years |
-| **Database Design** | Advanced | 2+ years |
-| **WordPress Integration** | Intermediate | 1+ year |
-| **Docker & Containerization** | Intermediate | 1+ year |
+| **Laravel Framework** | Advanced | 2+ years |
+| **PHP Development** | Advanced | 2+ years |
+| **REST API Development** | Advanced | 2+ years |
+| **MySQL Database Design & Optimization** | Advanced | 2+ years |
+| **CodeIgniter (CI3/CI4)** | Intermediate-Advanced | 1.5+ years |
+| **Backend System Design** | Advanced | 2+ years |
+| **WordPress Integration (APIs & Customization)** | Intermediate | 1+ year |
+| **API Testing (Postman & Swagger)** | Advanced | 2+ years |
 
 ---
 
 ## 🎯 Services & Solutions
 
 ### For Startups & Small Businesses:
-✅ **Backend API Development** - Build your data layer right  
-✅ **Database Architecture** - Design scalable, efficient databases  
-✅ **WordPress Extensions** - Custom plugins and integrations  
-✅ **System Optimization** - Improve performance and reliability  
-✅ **Legacy Code Refactoring** - Modernize existing applications  
-✅ **Technical Consultation** - Architecture and best practices guidance  
+
+✅ **REST API Development** – Secure, scalable backend APIs using Laravel  
+✅ **Database Design & Optimization** – Efficient structure for performance and scalability  
+✅ **Backend System Development** – Inventory, booking, and business management systems  
+✅ **Legacy Code Maintenance** – Bug fixing, refactoring, and improving old PHP/Laravel apps  
+✅ **WordPress Backend Integration** – API connections and custom backend logic  
+✅ **System Performance Optimization** – Improve speed, queries, and response time  
 
 ---
 
 ## 📈 Why Work With Me?
 
-🎯 **Focused Expertise** - 2+ years deep in Laravel & backend development  
-📊 **Proven Track Record** - Built systems serving thousands of users  
-🔧 **Clean Code** - SOLID principles and industry best practices  
-⚡ **Performance-Driven** - Database optimization and API efficiency  
-💬 **Clear Communication** - Regular updates and transparent processes  
-🚀 **Quick Turnaround** - Efficient development and deployment  
-📚 **Knowledge Sharing** - Documentation and maintainability first  
+🎯 **Focused Backend Expertise** – 2+ years hands-on experience in Laravel & PHP backend systems  
+📊 **Real-World Development Experience** – Built production backend systems (inventory, booking, API-based apps)  
+🔧 **Clean & Maintainable Code** – Follows SOLID principles and scalable architecture  
+⚡ **Performance-Oriented** – Focus on optimized APIs and efficient database queries  
+💬 **Clear Communication** – Regular updates and proper requirement understanding  
+🚀 **Reliable Delivery** – Structured development approach with timely completion  
+📚 **Maintainability First** – Well-documented and structured code for long-term use  
 
 ---
 
