@@ -97,8 +97,8 @@ My sweet spot is **Laravel & PHP backend development**, where I transform comple
 Check out my work on:
 
 - 🔗 **GitHub**: [@umairmujtaba987](https://github.com/umairmujtaba987)
-- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/).
-- 🌍 **Portfolio Website**: [Portfolio](https://umairmujtaba987.github.io/portfolio).
+- 💼 **LinkedIn**: [Umair Mujtaba](https://www.linkedin.com/in/umair-mujtaba-425981181/)
+- 🌍 **Portfolio Website**: [Portfolio](https://umairmujtaba987.github.io/portfolio)
 
 ---
 
@@ -106,9 +106,11 @@ Check out my work on:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairmujtaba987&show_icons=true&theme=radical&count_private=true) 
+![GitHub Stats](https://streak-stats.demolab.com/?user=umairmujtaba987&theme=radical) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairmujtaba987&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umairmujtaba987&theme=radical)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=umairmujtaba987&layout=compact&theme=radical)
 
 </div>
 
